@@ -1,0 +1,13 @@
+C:\Users\222ba\source\repos\Hello_world\Seminar6\bin\Debug\Seminar6.exe.config
+C:\Users\222ba\source\repos\Hello_world\Seminar6\bin\Debug\Seminar6.exe
+C:\Users\222ba\source\repos\Hello_world\Seminar6\bin\Debug\Seminar6.pdb
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.csproj.AssemblyReference.cache
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.csproj.SuggestedBindingRedirects.cache
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.login_frm.resources
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.Properties.Resources.resources
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\WindowsFormsApp2.Seminar3.resources
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.csproj.GenerateResource.cache
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.csproj.CoreCompileInputs.cache
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.exe
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.pdb
+C:\Users\222ba\source\repos\Hello_world\Seminar6\obj\Debug\Seminar6.frm_user_info.resources
